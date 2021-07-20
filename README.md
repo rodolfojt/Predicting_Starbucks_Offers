@@ -1,4 +1,6 @@
-# Recommending Starbucks Offers
+# Starbucks Capstone Challenge
+
+<img src="Starbucks_Rewards_App.png" width="400" height="300">
 
 The goal of this project consists  in  using  Amazon  SageMaker’s  supervised  
 learning  model,  DeepAR,  to  predict  how  muchsomeone will spend based in 
