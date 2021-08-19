@@ -2,6 +2,33 @@
 
 <p align="center"><img src="Starbucks_Rewards_App.png" width="400" height="300">
 
+## 1. Dependencies
+
+- pandas
+- numpy
+- math
+- json
+- seaborn
+- boto3
+- os
+- sagemaker
+- matplotlib
+- dateutil
+- sklearn 
+- plotly
+
+## 2. Notebooks
+
+- 1.Starbucks_Capstone_notebook-Data_Preprocessing.ipynb
+	- Contains all the preprocessing steps, feature engineering and 
+	upload preprocessed training and test data to Amazon S3.
+
+- 2.Starbucks_Capstone_notebook-Training_an_Estimator.ipynb
+	- Contains the training, evaluation, deployment and result steps.
+
+
+## 3. Project description
+
 The goal of this project consists  in  using  Amazon  SageMaker’s  supervised  
 learning  model,  DeepAR,  to  predict  how  muchsomeone will spend based in 
 the next days.  Knowing that information, it is possible to discover which 
