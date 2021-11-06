@@ -30,10 +30,10 @@
 ## 3. Project description
 
 The goal of this project consists  in  using  Amazon  SageMaker’s  supervised  
-learning  model,  DeepAR,  to  predict  how  muchsomeone will spend based in 
+learning  model,  DeepAR,  to  predict  how  much someone will spend based in 
 the next days.  Knowing that information, it is possible to discover which 
-demographicgroups respond best to which offer type and create a recommendation 
-system that suggests customized offers .According to DeepAR forecasting 
+demographic groups respond best to which offer type and create a recommendation 
+system that suggests customized offers. According to DeepAR forecasting 
 algorithm documentation, it is a method for finding time-based patterns 
 and forecasting scalar (one-dimensional) time series using recurrent neural 
 networks (RNN).
